@@ -1,5 +1,7 @@
-package com.example.pdfgenerator;
+package io.pdf;
 
+import io.pdf.util.DataToHtmlGenerator;
+import io.pdf.util.HtmlToPdfRender;
 import org.thymeleaf.context.Context;
 
 import java.io.OutputStream;

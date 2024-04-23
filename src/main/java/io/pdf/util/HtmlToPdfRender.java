@@ -1,4 +1,4 @@
-package com.example.pdfgenerator;
+package io.pdf.util;
 
 import org.xhtmlrenderer.pdf.ITextRenderer;
 import java.io.OutputStream;
